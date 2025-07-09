@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'cuadra-ai-sdk'
-  s.version = '1.0.3'
+  s.version = '1.0.4'
   s.summary = 'Cuadra AI SDK'
   s.description = 'Build AI agents with your own data, accelerate time-to-value, and create solutions as unique as your business.'
   s.authors = ['Cuadra AI']
